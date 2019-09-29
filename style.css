@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Merriweather', serif;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+  border-bottom: 2px solid #2cb9c0;
+}
+
+header h1 {
+  font-size: 24px;
+}
+
+header p img {
+  margin-top: 5px;
+  max-width: 32px;
+}
+
+section {
+  padding: 20px;
+  margin-left: 3%;
+  margin-right: 3%;
+  border-bottom: 1px solid #2cb9c0;
+}
+
